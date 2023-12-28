@@ -52,3 +52,6 @@ Para ejecutar la aplicación, carga el código en tu entorno de R y ejecuta shin
 
 ## Contribuciones
 ¡Las contribuciones son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar la aplicación, no dudes en abrir un problema o enviar una solicitud de extracción.
+
+## Licencia
+Por el momento el archivo no contiene licencia de creador. Es abierta al público general, sólamente se pide que se avise al creador que se va a hacer uso para su mejora o análisis.
